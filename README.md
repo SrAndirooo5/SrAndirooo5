@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Went, spoke facts for 10min, then returned
+# Went, spoke facts for 10min, then returned
 <!--
 **SrAndirooo5/SrAndirooo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
